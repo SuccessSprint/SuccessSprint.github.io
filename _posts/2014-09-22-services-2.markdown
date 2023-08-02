@@ -2,7 +2,7 @@
 layout: default
 img: dog.png
 category: Services
-title: Join Our Discord
+title: Join Our Community
 description: |
 ---
   Join our [Discord](https://discord.gg/T2E7dh42Pg) to participate in live tutorials, see our latest projects, and ask questions.
