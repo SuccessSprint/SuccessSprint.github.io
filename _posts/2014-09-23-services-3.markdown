@@ -5,4 +5,5 @@ category: Services
 title: Buy Us a KoFi
 description: |
 ---
-Buy us a [KoFi](https://ko-fi.com/successsprint) We're a non-profit organization of passionate developers and technology enthusiests. Please contribute to support our efforts!
+Buy us a [KoFi](https://ko-fi.com/successsprint)!
+We're a non-profit organization of passionate developers and technology enthusiests. Please contribute to support our efforts!
