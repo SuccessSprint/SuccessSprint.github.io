@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: kofi.png
 category: Services
 title: Buy Us a KoFi
 description: |
