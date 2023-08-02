@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Watch Our Videos
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Check out our video series and curriculums on [YouTube](https://www.youtube.com/@Success_Sprint)! We strive to keep every video 5 minutes or less so you can learn on your own time.
