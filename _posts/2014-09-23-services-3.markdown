@@ -7,3 +7,5 @@ description: |
 ---
 Buy us a [KoFi](https://ko-fi.com/successsprint)!
 We're a non-profit organization of passionate developers and technology enthusiests. Please contribute to support our efforts!
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy Us a Ko-fi!', '#5ccff2', 'O4O3LM8RT');kofiwidget2.draw();</script> 
