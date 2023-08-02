@@ -2,9 +2,7 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Join Our Discord
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Join our [Discord](https://discord.gg/T2E7dh42Pg) to participate in live tutorials, see our latest projects, and ask questions.
